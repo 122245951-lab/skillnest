@@ -1,0 +1,33 @@
+﻿node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# IDE & OS
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+Thumbs.db
+
+# Project-specific
+*.zip
+*.docx
+*.cjs
+_*
+
+# Temp / debug files
+*.log.*
+debug/
+
+# Dev helpers (local paths / session IDs)
+_cleanup.cjs
+

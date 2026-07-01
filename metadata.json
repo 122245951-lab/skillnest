@@ -1,0 +1,6 @@
+{
+  "name": "SkillNest",
+  "description": "SkillNest 简易技能巢 — 个人Skill作品集展示、博物馆式陈列、规则引擎与版本管理站",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
